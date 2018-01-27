@@ -1,12 +1,9 @@
 # luclaravel
 
 
-University Forum:
+ University Forum:
 
-‘ university Forum’ is a web-based communication tool (or activity) that enables participants to post messages and to reply to others' messages asynchronously. The online discussion typically lasts longer and gives students time to think about what they are going to contribute. They enable users of a website to interact with each other by exchanging tips and discussing hot topics related to any academic subject or events.
-
-
-
+‘university Forum’ is a web-based communication tool (or activity) that enables participants to post messages and to reply to others' messages asynchronously. The online discussion typically lasts longer and gives students time to think about what they are going to contribute. They enable users of a website to interact with each other by exchanging tips and discussing hot topics related to any academic subject or events.
 
 
 clone link:https://github.com/ShadipBanik/luclaravel.
@@ -21,12 +18,10 @@ clone link:https://github.com/ShadipBanik/luclaravel.
 6  set your db name in .env file.
 7  command line php artisan migrate.
 8  command line php artisan serve.
-  
+ 
 
-
- Aims and Objectives:
-
-1.2The main objectives which have been designated as fundamental to the project are:
+Aims and Objectives:
+The main objectives which have been designated as fundamental to the project are:
 •	Students can easily participate in Question and Answer session easily.
 •	Developing the website reliable for the students.
 •	React to a reply and mark best reply
