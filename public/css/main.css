@@ -1,0 +1,75 @@
+body{
+    padding-bottom: 0px;
+}
+
+.navbar-inverse{
+    background-color: #210b0b;
+}
+
+.list-group-item a{
+    color: #555;
+}
+.list-group-item>a:hover{
+    background-color: #ccb6b678 ;
+}
+a:hover{
+    text-decoration: none;
+
+}
+#promo {
+    text-align: center;
+    padding: 40px;
+    background: url(../img/cover.jpg) no-repeat;
+    background-size: cover;
+}
+
+#promo .jumbotron {
+    border-radius: 20px;
+    padding: 40px;
+    background-color: rgba(255,255,255,0.75);
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.ml-a{
+    margin-left: auto;
+}
+
+.bestReply{
+    width: 100%;
+    padding: 7px;
+    background: #3B8;
+    color: white;
+}
+.btn-mark{
+    display: none;
+}
+
+
+
+#footer {
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    background:
+        /* color overlay */
+            linear-gradient(
+                    rgba(240, 212, 0, 0.45),
+                    rgba(0, 0, 0, 0.45)
+            ),
+                /* image to overlay */
+            url(http://images.cdn.fotopedia.com/_avPIZmqM3w-7z161LH_268-hd.jpg);
+}
+
+#footer>.container {
+    width: auto;
+    max-width: 900px;
+    padding: 0 15px;
+}
+#footer>.container .text-muted {
+    margin: 20px 0;
+}
+.footertext {
+    text-align: center;
+    color: #737373;
+}
