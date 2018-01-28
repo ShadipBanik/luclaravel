@@ -1,92 +1,92 @@
-# luclaravel
+# Welcome to the luclaravel wiki!
 
-
- University Forum:
+###  University Forum:
 
 ‘university Forum’ is a web-based communication tool (or activity) that enables participants to post messages and to reply to others' messages asynchronously. The online discussion typically lasts longer and gives students time to think about what they are going to contribute. They enable users of a website to interact with each other by exchanging tips and discussing hot topics related to any academic subject or events.
 
-
-clone link:https://github.com/ShadipBanik/luclaravel.
-
-#installation
+### installation
 
 1. download the clone and keep in localhost folder.
 2. go to the file directory and run  cmd.
 3. command line  composer update --no-scripts .
 4. command line  copy .env.examlple .env.
-5  command line  php artisan key:generate.
-6  set your db name in .env file.
-7  command line php artisan migrate.
-8  command line php artisan serve.
- 
+5.  command line  php artisan key:generate.
+6.  set your db name in .env file.
+7.  command line php artisan migrate.
+8.  command line php artisan serve.
+  
+###  Aims and Objectives:
 
-Aims and Objectives:
 The main objectives which have been designated as fundamental to the project are:
-•	Students can easily participate in Question and Answer session easily.
-•	Developing the website reliable for the students.
-•	React to a reply and mark best reply
-•	Admin dashboard to control the thread and User
-•	In addition, the advanced aims which are desirable if time is permitting are:
-      o	Popular and trending thread section
-      o	Making complete dynamic feature rich android & iOS application.
-      o	Making club wise separate discussion thread and chatroom.
+1.	Students can easily participate in Question and Answer session easily.
+2.	Developing the website reliable for the students.
+3.	React to a reply and mark best reply
+4.	Admin dashboard to control the thread and User
+5.	In addition, the advanced aims which are desirable if time is permitting are:
+      * Popular and trending thread section
+      * Making complete dynamic feature rich android & iOS application.
+      * Making club wise separate discussion thread and chatroom.
 
+### Features:
 
-Features:
+1.	Easy to use
+3.	Easy maintenance
+2. 	Flexible Insertion, Delete, Edit, update
+4. 	Highly secured 
+5.	Update system
+6.	Latest technology
+7.	Admin dashboard
+8.	Automatic spam disapproval
+9.	Trending thread
+10.	Realtime reaction
+11.	Notification 
+12.	Chat facility
+13.	Best answer selection
+14.	Search option
 
-•	Easy to use
-•	Easy maintenance
-•	Flexible Insertion, Delete, Edit, update
-•	Highly secured 
-•	Update system
-•	Latest technology
-•	Admin dashboard
-•	Automatic spam disapproval
-•	Trending thread
-•	Realtime reaction
-•	Notification 
-•	Chat facility
-•	Best answer selection
-•	Search option
-
-
-Programming Language:
+### Programming Language:
 
 To develop our project, we need some specialized tools and software to support our requirements. For front end we have used-
 
-	HTML5
-	CSS 
-	JavaScript
-	JQuery
-	Bootstrap
-	PHP
-	MySQL
-	Apache server
-	Laravel 5.5
-	Node.js
-	Vue.js
-	Moment.js
-	Caret.js
-	Redis
-	Algolia Api
+*	HTML5
+* 	CSS 
+* 	JavaScript
+* 	JQuery
+* 	Bootstrap
+* 	PHP
+* 	MySQL
+* 	Apache server
+* 	Laravel 5.5
+* 	Node.js
+* 	Vue.js
+* 	Moment.js
+* 	Caret.js
+* 	Redis
+* 	Algolia Api
 
-IDE requirement:
-	Sublime text
-	PhpStorm
+### IDE requirement:
+* 	Sublime text
+* 	PhpStorm
 
-System Architecture:
-This project contains these important module:
-•	Registration
-•	.User Profile
-•	Category	 
-•	Create Thread
-•	Answer
-•	Discover
-•	Mention
-•	Search
-•	Trending thread
-•	Admin dashboard
 
+
+###  System Architecture:
+    This project contains these important module
+
+    1.  Registration
+    2.  User Profile
+    3.  Channels	 
+    4.  Create Thread
+    5.  Answer
+    6.  Unanswered
+    7.  Popular thread
+    8.  Thread subscribe
+    9.  Thread visits
+    10. Discover
+    11. Mention
+    12. Search
+    13. Trending thread
+    14. Admin dashboard
 
 
 
